@@ -1,6 +1,6 @@
 # Image Processing Scripts
 
-This repository contains MATLAB scripts for performing various image processing tasks, including binarization and color quantization.
+This repository contains MATLAB scripts for performing various image processing tasks, including binarization and color quantization with floyd-steinberg dithering algorithm.
 
 ## Tasks Performed
 
